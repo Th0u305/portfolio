@@ -30,7 +30,7 @@ export const Menu = ({ setActive, children }) => {
   return (
     <nav
       // resets the state
-      className="relative rounded-full border border-transparent dark:bg-black dark:border-white/[0.2] bg-white shadow-input flex justify-center space-x-4 md:space-x-7 py-7"
+      className="relative rounded-full border bg-black border-white/[0.4]  shadow-input flex justify-center space-x-4 sm:space-x-7 py-7"
     >
       {children}
     </nav>

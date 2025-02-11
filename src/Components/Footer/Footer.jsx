@@ -24,22 +24,6 @@ const Footer = () => {
               href="#"
               className="text-base leading-6 text-white"
             >
-              Team
-            </a>
-          </div>
-          <div className="px-5 py-2">
-            <a
-              href="#"
-              className="text-base leading-6 text-white"
-            >
-              Pricing
-            </a>
-          </div>
-          <div className="px-5 py-2">
-            <a
-              href="#"
-              className="text-base leading-6 text-white"
-            >
               Contact
             </a>
           </div>
